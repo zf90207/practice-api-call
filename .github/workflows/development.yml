@@ -34,5 +34,5 @@ jobs:
       - name: Build
         run: yarn build
 
-      - names: Unit Test
+      - name: Unit Test
         run: yarn test
