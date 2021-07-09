@@ -1,1 +1,3 @@
-console.log("Hello World");
+export function addition(value: string) {
+  return 0;
+}
